@@ -1,0 +1,9 @@
+[submodule "gg-frontend"]
+	path = gg-frontend
+	url = https://github.com/production-dev/gg-frontend
+[submodule "gg-identity"]
+	path = gg-identity
+	url = https://github.com/production-dev/gg-identity
+[submodule "gg-backend"]
+	path = gg-backend
+	url = https://github.com/production-dev/gg-backend
